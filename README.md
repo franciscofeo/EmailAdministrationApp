@@ -1,1 +1,1 @@
-# Email Administrationt Application
+# Email Administration Application
