@@ -1,1 +1,1 @@
-# EmailAdministrationtApp
+# Email Administrationt Application
